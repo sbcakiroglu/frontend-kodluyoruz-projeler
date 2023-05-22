@@ -1,0 +1,82 @@
+body {
+    background-color: wheat;
+}
+p {
+   color: black ; font-family: 'Kanit', sans-serif;
+}
+h1 {
+    color: #2F0F5D; font-family: 'Kanit', sans-serif;
+}
+h2 {
+   color: crimson; font-family: 'Kanit', sans-serif;
+}
+
+ul {
+    color: indigo; text-decoration: none; font-size: larger; font-family: 'Kanit', sans-serif; font-style: oblique;
+}
+
+/* Navbar */ 
+nav ul {
+    color: indigo; text-decoration: none; font-size: larger; font-family: 'Kanit', sans-serif; font-style: oblique;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+  }
+  
+  nav li {
+    float: right;
+  }
+  
+  nav a {
+    display: block;
+    color: aqua;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    transition: background-color 0.3s ease;
+  } 
+  /* Header */ 
+  header {
+    background-color: #2F0F5D;
+    padding: 10px;
+    text-align: center;
+  }
+  
+  header hr {
+    border: none;
+    height: 1px;
+    background-color: aqua;
+    margin: 0;
+  }
+  /* CSS kodlarını buraya ekleyin */
+
+  footer {
+    background-color: #2F0F5D;
+    padding: 20px;
+    text-align: center;
+  
+  }
+  
+  footer nav ul {
+    color: #51278d; text-decoration: none; font-size: larger; font-family: 'Kanit', sans-serif; font-style: oblique;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+  }
+  
+  footer li {
+    margin: 0 10px;
+    display: inline-block;
+  }
+  
+  footer a {
+    color: aqua;
+    text-decoration: none;
+    transition: color 0.3s ease;
+  }
+  
+  footer a:hover {
+    color: #5b2a9e;
+  }
