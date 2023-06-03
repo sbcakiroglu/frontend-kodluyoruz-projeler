@@ -1,2 +1,1 @@
-# instagrambootstrapclone
-Simple HTML Instagram clone made with Bootstrap.
+<img src="https://github.com/sbcakiroglu/frontend-kodluyoruz-projeler/blob/main/instagramclone/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202023-06-03%20201708.png" alt="" title="">
