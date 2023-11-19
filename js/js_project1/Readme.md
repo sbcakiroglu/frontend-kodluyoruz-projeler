@@ -1,1 +1,1 @@
-<img src="" alt="alt text" width="1366" height="629">
+<img src="https://github.com/sbcakiroglu/frontend-kodluyoruz-projeler/blob/main/js/js_project1/ss.png" alt="alt text" width="1366" height="629">
