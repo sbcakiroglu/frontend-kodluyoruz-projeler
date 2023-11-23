@@ -1,0 +1,1 @@
+<img src="" alt="alt text" width="1366" height="629">
